@@ -6,7 +6,7 @@ This boi makes use of Google text-to-speech API.
 
 ## Setup
 
-For windows user, there is an `.exe` file provided.
+For windows user, there is an `.exe` file provided. See [Release](https://github.com/IDislikeChair/interviewer-boi/releases/latest).
 
 TO DO !
 
@@ -23,7 +23,7 @@ Interview Boi uses a deck `.json` file. `example.json` is provided as an example
 `deck` value is an array containing cards.
 
 Each cards contains
-* `read_text` - text that that TTS read. See https://gtts.readthedocs.io/en/latest/module.html#languages-gtts-lang
+* `read_text` - text that that TTS read. See [gtts.lang](https://gtts.readthedocs.io/en/latest/module.html#languages-gtts-lang).
 * `display_text` - array of text that display after the TTS. If multiple strings are provided, one will be selected randomly. (optional)
 * **replacement flags** - array of text that replace flags in `read_text`. Flag is contain in curly braces `{flag}`. See the second in `example.json` for a replacement example. A `read_text` can have any number of flags.
 

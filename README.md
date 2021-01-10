@@ -56,7 +56,7 @@ Part of `example.json`
 }
 ```
 
-# Command line arguments
+## Command line arguments
 
 * `-s --speed` - Speed of TTS (Default to 1.0)
 * `-t --time ` - Time in seconds to wait before the text is read (Default to 3)

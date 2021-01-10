@@ -1,0 +1,191 @@
+{
+    "lang": "ko",
+    "deck": [
+        {
+            "read_text": "이것이 무엇입니까?",
+            "display_text": [
+                "The object is textbook",
+                "The object is desk",
+                "The object is chair",
+                "The object is bag",
+                "The object is notebook",
+                "The object is home phone",
+                "The object is pencil"
+            ]
+        },
+
+        {
+            "read_text": "이것이 {object}입니까?",
+            "display_text": [
+                "The object is textbook",
+                "The object is desk",
+                "The object is chair",
+                "The object is bag",
+                "The object is notebook",
+                "The object is home phone",
+                "The object is pencil"
+            ],
+            "object" : [
+                "사전",
+                "잭상",
+                "의자",
+                "가방",
+                "공책",
+                "전화",
+                "연필"
+            ]
+        },
+
+        {
+            "read_text": "요코 씨는 어디에서 무엇을 해요?",
+            "display_text": [
+                "watch movie as a theater",
+                "go shopping at a department store",
+                "borrow a book at a library",
+                "send a letter at a post office",
+                "ride a ride at an amusement park"
+            ]
+        },
+
+        {
+            "read_text": "요코 씨 전화번호는 무엇입니까?",
+            "display_text": "012-3456-7890"
+        },
+        
+        {
+            "read_text": "요코 씨가 무엇을 합니까?",
+            "display_text": [
+                "Watching movie",
+                "Reading newspaper",
+                "Wearing clothe",
+                "Drinking coffee",
+                "Waiting for her friend",
+                "Learning computer"
+            ]
+        },
+
+        {
+            "read_text": "요코 씨가 무엇을 합니까?",
+            "display_text": [
+                "Watching movie",
+                "Reading newspaper",
+                "Wearing clothe",
+                "Drinking coffee",
+                "Waiting for her friend",
+                "Learning computer"
+            ]
+        },
+        {
+            "read_text": "요코 씨 생일이 언제입니까?",
+            "display_text": [
+                "Last Sunday",
+                "Last Monday",
+                "Last Tuesday",
+                "Last Wednesday",
+                "Last Thursday",
+                "Last Friday",
+                "Last Saturday",
+                "Month: 10 Day: 12",
+                "Month: 4 Day: 19",
+                "Month: 6 Day: 30",
+                "Month: 10 Day: 7",
+                "Month: 12 Day: 25",
+                "Month: 2 Day: 24"
+            ]
+        },
+        {
+            "read_text": "요코 씨가 어디에 갑니까?",
+            "display_text": [
+                "Classroom",
+                "Restaurant",
+                "Library",
+                "Washroom",
+                "Bookstore",
+                "Home"
+            ]
+        },
+        {
+            "read_text": "{1} 어디에 있습니까?", 
+            "display_text": [
+                "Umbrella and bag are next to a sofa.\nClock and pencil are on a table.\nNoteook and pencil bag are under a table.\nDictionary and electric dictionary are on a sofa."
+            ], 
+            "1": [
+                "우산이",
+                "시계가",
+                "공책이",
+                "사전이",
+                "전자사전이",
+                "필통이",
+                "연필이"
+            ]
+        },
+        {
+            "read_text": "방에 무엇이 있습니까?",
+            "display_text": [
+                "(Answer at least 3 objects) In the room, there are ...\nUmbrella\nClock\nNotebook\nDictionary\nElectric Dictionary\nPencil Case\nPencil",
+                "(Answer at least 3 objects) In the room, there are ...\nComputer\nTV\nPhone\nSofa\nNewspaper",
+                "(Answer at least 3 objects) In the room, there are ...\nBed\nChair\nDressing Table\nClothe"
+            ]
+        },
+
+        {
+            "read_text": "{1} 어디에 있습니까?",
+            "1": [
+                "영화관이",
+                "우체국이",
+                "빵집이",
+                "백화점이",
+                "병원이",
+                "약국이",
+                "편의접이"
+            ],
+            "display_text": [
+                "Movie theater is next to a convenience store and a school.\nDepartment store is next to a bakery.\nPharmacy is next to a hospital.\nPost office is next to a bank."
+            ]
+        },
+
+        {
+            "read_text": "{1} 몇 개 있습니까?",
+            "1": [
+                "의자가",
+                "전자사전",
+                "우산",
+                "벽시계",
+                "안경",
+                "책상",
+                "가방"
+            ],
+            "display_text": [
+                "There are ...\n- 4 chairs\n- 3 electronic\n- 7 umbrellas\n- 1 wall clock\n- 6 pairs of glasses\n- 5 desks\n- 2 bags"
+            ]
+        },
+    
+        {
+            "read_text": "지금 몇 시입니까?",
+            "display_text": [
+                "01:05 AM",
+                "06:38 AM",
+                "08:40 AM",
+                "10:54 AM",
+                "2:09 PM",
+                "4:05 PM",
+                "5:20 PM",
+                "5:44 PM",
+                "10:51 PM",
+                "11:23 PM"
+            ]
+        },
+
+        {
+            "read_text": "언제 아르바이트를 합니까?",
+            "display_text": [
+                "7:25 AM - 8:48 AM",
+                "9:57 AM - 11:30 AM",
+                "11:46 AM - 1:31 PM",
+                "3:42 PM - 6:09 PM",
+                "7:19 PM - 9:22 PM",
+                "11:38 PM - 2:49 AM"
+            ]
+        }
+    ]
+}
